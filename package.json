@@ -1,0 +1,11 @@
+{
+  "name": "css-selectors-task",
+  "version": "1.0.0",
+  "description": "A task to apply various CSS selectors including ID, class, attribute, and element selectors to a profile page.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
